@@ -1,0 +1,180 @@
+﻿Beet Seed  — get the basic skills down.
+1. In Google Docs, create 5 test cases for functional testing of the https://www.carsforsale.com website (5 top priority tests). 
+Link the document in LMS.
+2. With https://reqbin.com/, test the following API Reqres methods:
+   * LIST USERS
+   * SINGLE USER
+   * CREATE
+   * UPDATE (PUT)
+   * UPDATE (PATCH)
+   * DELETE
+   * REGISTER - SUCCESSFUL
+   * LOGIN - SUCCESSFUL
+Create a document and describe in it the bugs you found. The description can be of any format, but must include screenshots. Add the document to LMS.
+1
+1.     Homepage Navigation and Search Functionality:
+a.      Verify that the homepage loads without errors.
+b.     Test the search bar functionality to ensure users can search for cars by make, model, location, or other criteria.
+c.      Confirm that search results are relevant and displayed correctly.
+   2. Listing Page Functionality:
+   1. Ensure that when a user clicks on a search result, the listing page for a specific car opens
+   2. Check that all relevant information such as car details, images, price, and contact information are displayed
+   3. Verify that the "Contact Seller" button works and allows users to inquire about the car
+   3. User Registration and Login:
+   1. Test the user registration process to ensure users can create an account with valid information.
+   2. Verify that users can log in successfully using their registered credentials.
+   3. Test password recovery functionality, making sure users can reset their passwords if forgotten.
+   4. Filter and Sort Functionality:
+   1. Verify that filter options work correctly, allowing users to refine search results
+   2. Test the sorting functionality to ensure users can sort results by criteria such as price, year, or location
+   3. Check that the filtered and sorted results match user selections
+   5. User Account Management:
+   1. Test user account management features, including the ability to edit profile information and change contact details
+   2. Ensure users can save favorite listings and access them from their accounts
+   3. Test the functionality for users to post their own car listings, including adding images and descriptions
+
+
+
+
+
+
+
+
+2. 
+
+
+list users
+  
+
+  
+
+
+
+
+
+single user
+  
+
+  
+
+
+
+create
+  
+
+
+
+update put
+
+
+
+
+
+
+update patch 
+  
+
+delete
+  
+
+
+
+register 
+
+
+login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beet Sprout — dive deeper into practice.
+   1. Complete the previous level's task.
+   2. Use https://reqbin.com/ to send one valid request for each method to GO REST (/users endpoint). 
+   1. After sending each request, compare its details entered in https://reqbin.com/ and displayed in Developer Tools.
+Create a document with screenshots showing the correspondence between the data in both tools. Add the document to LMS.
